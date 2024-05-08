@@ -1,0 +1,16 @@
+{
+  "name": "video-call",
+  "version": "1.0.0",
+  "description": "A simple webRTC application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Ankush Marathe",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "socket.io": "^4.7.5"
+  }
+}
